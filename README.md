@@ -1,4 +1,4 @@
-# Character-Level-Amharic-to-English-TTS
+# Character-Level-Amharic-TTS
 This is a project for CS724 NLP course project.
 
 Requirements:
